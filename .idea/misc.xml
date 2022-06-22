@@ -3,11 +3,29 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/MyFolder/Important/AndroidEcommerceApp/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/MyFolder/Important/AndroidEcommerceApp/app/src/main/res/drawable/button_border.xml" value="0.1315" />
+        <entry key="..\:/MyFolder/Important/AndroidEcommerceApp/app/src/main/res/drawable/custom_buttom.xml" value="0.129" />
+        <entry key="..\:/MyFolder/Important/AndroidEcommerceApp/app/src/main/res/drawable/custom_button_buynow.xml" value="0.129" />
+        <entry key="..\:/MyFolder/Important/AndroidEcommerceApp/app/src/main/res/drawable/custom_button_cart.xml" value="0.129" />
+        <entry key="..\:/MyFolder/Important/AndroidEcommerceApp/app/src/main/res/drawable/custom_edittext.xml" value="0.129" />
+        <entry key="..\:/MyFolder/Important/AndroidEcommerceApp/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1245" />
+        <entry key="..\:/MyFolder/Important/AndroidEcommerceApp/app/src/main/res/layout-sw600dp/activity_login.xml" value="0.25" />
+        <entry key="..\:/MyFolder/Important/AndroidEcommerceApp/app/src/main/res/layout/activity_edit_user_profile.xml" value="0.1675929884566054" />
+        <entry key="..\:/MyFolder/Important/AndroidEcommerceApp/app/src/main/res/layout/activity_google_map.xml" value="0.15775972637879435" />
+        <entry key="..\:/MyFolder/Important/AndroidEcommerceApp/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/MyFolder/Important/AndroidEcommerceApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/MyFolder/Important/AndroidEcommerceApp/app/src/main/res/layout/activity_product_detail.xml" value="0.21" />
+        <entry key="..\:/MyFolder/Important/AndroidEcommerceApp/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/MyFolder/Important/AndroidEcommerceApp/app/src/main/res/layout/cart_display.xml" value="0.22" />
+        <entry key="..\:/MyFolder/Important/AndroidEcommerceApp/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/MyFolder/Important/AndroidEcommerceApp/app/src/main/res/layout/fragment_profile.xml" value="0.1675929884566054" />
+        <entry key="..\:/MyFolder/Important/AndroidEcommerceApp/app/src/main/res/layout/item_display.xml" value="0.1675929884566054" />
+        <entry key="..\:/MyFolder/Important/AndroidEcommerceApp/app/src/main/res/menu/bottom_menu.xml" value="0.25" />
+        <entry key="..\:/MyFolder/Important/AndroidEcommerceApp/app/src/main/res/menu/gallery_camera.xml" value="0.1675929884566054" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

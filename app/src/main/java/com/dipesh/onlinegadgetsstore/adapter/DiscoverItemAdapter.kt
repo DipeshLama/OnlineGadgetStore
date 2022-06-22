@@ -20,6 +20,7 @@ class DiscoverItemAdapter(
         val context:Context
 
 ) :RecyclerView.Adapter<DiscoverItemAdapter.ProductViewHolder>(){
+
     class ProductViewHolder(view: View):RecyclerView.ViewHolder(view){
         val productImage: ImageView
         val tvProductName:TextView

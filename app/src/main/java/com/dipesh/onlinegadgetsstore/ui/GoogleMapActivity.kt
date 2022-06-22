@@ -21,7 +21,7 @@ class GoogleMapActivity : AppCompatActivity(), OnMapReadyCallback {
         setContentView(R.layout.activity_google_map)
         // Obtain the SupportMapFragment and get notified when the map is ready to be used.
         val mapFragment = supportFragmentManager
-                .findFragmentById(R.id.map) as SupportMapFragment
+            .findFragmentById(R.id.map) as SupportMapFragment
         mapFragment.getMapAsync(this)
     }
 
@@ -38,14 +38,14 @@ class GoogleMapActivity : AppCompatActivity(), OnMapReadyCallback {
         mMap = googleMap
 
         mMap.addMarker(
-            MarkerOptions().position(LatLng(27.6953555,85.3665120))
+            MarkerOptions().position(LatLng(27.6953555, 85.3665120))
                 .title("KTM Kart Office")
                 .icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_GREEN))
         )
 
         mMap.animateCamera(
-            CameraUpdateFactory.newLatLngZoom(LatLng(27.6953555,85.3665120),15F),3000,null
+            CameraUpdateFactory.newLatLngZoom(LatLng(27.6953555, 85.3665120), 15F), 3000, null
         )
-        mMap.uiSettings.isZoomControlsEnabled==true
+        mMap.uiSettings.isZoomControlsEnabled
     }
 }
